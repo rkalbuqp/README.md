@@ -1,5 +1,3 @@
-![Cover](https://drive.google.com/file/d/1kjtXvEJBXOH9VuigRBoRvvjaZTIz67Ia/view?usp=drive_link)
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rkalbuqp/)
 [![Github](https://img.shields.io/github/followers/seu-usuario?label=follow&style=social)](https://github.com/rkalbuqp/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kalbuqp/)
