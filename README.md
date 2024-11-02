@@ -37,8 +37,8 @@
 
 ## 📈 Featured Projects:
 
-[![Project 1](https://img.shields.io/badge/-Project%201-444444?style=flat&logo=github)](https://github.com/rkalbuqp/Pokedex.git)
-[![Project 2](https://img.shields.io/badge/-Project%202-444444?style=flat&logo=github)](https://github.com/rkalbuqp/project2)
+[![Pokédex Project](https://img.shields.io/badge/-Project%201-444444?style=flat&logo=github)](https://github.com/rkalbuqp/Pokedex.git)
+[![Project](https://img.shields.io/badge/-Project%202-444444?style=flat&logo=github)](https://github.com/rkalbuqp/project2)
 
 ## 📊 GitHub Stats
 
