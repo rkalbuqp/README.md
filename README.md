@@ -23,7 +23,7 @@
 [![GitHub](https://img.shields.io/github/followers/rkalbuqp?label=follow&style=social)](https://github.com/rkalbuqp/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kalbuqp/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rkalbuqp@gmail.com)
-  - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png"> [Discord](https://discord.com/): Its_Kassia#4010</a>
+<a><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png"> [Discord](https://discord.com/): Its_Kassia#4010</a>
 
 ## 🛠️ Tools and Technologies:
 
